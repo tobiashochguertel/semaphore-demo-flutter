@@ -2,6 +2,7 @@
 
 Example Flutter application and CI/CD pipeline for integrating it with Semaphore 2.0. This application demonstrates CRUD operations using class based views in Django. It also includes UI for all CRUD views.
 
+
 ## Preview
 
 ![](screenshots/flutter-login-demo.png)
